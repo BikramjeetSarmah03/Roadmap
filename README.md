@@ -7,10 +7,10 @@
 
 #### Some Resources are :-
 
-    1. https://www.youtube.com/results?search_query=html+and+css+sites
-    2. https://www.youtube.com/watch?v=PlxWf493en4
-    3. https://www.youtube.com/watch?v=oYRda7UtuhA
-    4. https://www.youtube.com/watch?v=yQimoqo0-7g
+    1. [Youtube Search](https://www.youtube.com/results?search_query=html+and+css+sites)
+    2. [https://www.youtube.com/watch?v=PlxWf493en4](https://www.youtube.com/watch?v=PlxWf493en4)
+    3. [https://www.youtube.com/watch?v=oYRda7UtuhA](https://www.youtube.com/watch?v=oYRda7UtuhA)
+    4. [https://www.youtube.com/watch?v=yQimoqo0-7g](https://www.youtube.com/watch?v=yQimoqo0-7g)
 
 
 ## Note:- 
@@ -27,7 +27,7 @@
     Directly jump to Javascript when u have the minimum understanding of html & css, as while building projects we will learn the html and all
 
 ### Some Resources are :-
-    https://www.youtube.com/watch?v=hKB-YGF14SY 
+    [https://www.youtube.com/watch?v=hKB-YGF14SY](https://www.youtube.com/watch?v=hKB-YGF14SY)
     
     This video will be enough to get started
 
